@@ -1,0 +1,24 @@
+/* Datos de prueba */
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Andrés', 'Guzmán', 'aguzman@gmail.com', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Mr. John', 'Doe', 'jdoe@gmail.com', '2018-01-06');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Linus', 'Torvalds', 'ltorvalds@gmail.com', '2018-01-21');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Rasmus', 'Lerdorf', 'rlerdorf@gmail.com', '2018-04-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Erich', 'Gamma', 'egamma@gmail.com', '2018-05-13');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Richard', 'Helm', 'rhelm@gmail.com', '2018-05-22');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Ralph', 'Johnson', 'rjohnson@gmail.com', '2018-06-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Dr. James', 'Gosling', 'jgosling@gmail.com', '2018-08-30');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Andrés1', 'Guzmán1', 'aguzman@gmail.com1', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Mr. John1', 'Doe1', 'jdoe@gmail.com1', '2018-01-06');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Linus1', 'Torvalds1', 'ltorvalds@gmail.com1', '2018-01-21');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Rasmus1', 'Lerdorf1', 'rlerdorf@gmail.com1', '2018-04-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Erich1', 'Gamma1', 'egamma@gmail.com1', '2018-05-13');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Richard1', 'Helm1', 'rhelm@gmail.com1', '2018-05-22');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Ralph1', 'Johnson1', 'rjohnson@gmail.com1', '2018-06-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Dr. James1', 'Gosling1', 'jgosling@gmail.com1', '2018-08-30');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Andrés2', 'Guzmán2', 'aguzman@gmail.com2', '2018-01-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Mr. John2', 'Doe2', 'jdoe@gmail.com2', '2018-01-06');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Linus2', 'Torvalds2', 'ltorvalds@gmail.com2', '2018-01-21');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Rasmus2', 'Lerdorf2', 'rlerdorf@gmail.com2', '2018-04-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Erich2', 'Gamma2', 'egamma@gmail.com2', '2018-05-13');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Richard2', 'Helm2', 'rhelm@gmail.com2', '2018-05-22');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Ralph2', 'Johnson2', 'rjohnson@gmail.com2', '2018-06-01');
